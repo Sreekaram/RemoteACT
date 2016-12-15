@@ -32,7 +32,7 @@ public class GenomicsTest2 {
 	      driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
           
 	    }
-
+//System.out.println("Title is Anil");
 	    /*@AfterSuite
 	    public void tearDown() throws Exception {
 	       driver.quit();    
